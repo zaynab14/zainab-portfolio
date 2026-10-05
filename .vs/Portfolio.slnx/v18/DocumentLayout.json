@@ -1,0 +1,1749 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NLN\\Desktop\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\Agents.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Agents.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\Claude.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Claude.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\components.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\post.css.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:post.css.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\sidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\skeleton.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\skeleton.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\slider.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\slider.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sonner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\sonner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\switch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\switch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\table.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\table.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\tabs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\tabs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\textarea.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\textarea.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toast.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\toast.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toaster.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\toaster.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toggle-group.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\toggle-group.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toggle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\toggle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\tooltip.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\tooltip.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\use-responsive.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\use-responsive.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\use-toast.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\use-toast.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sheet.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\sheet.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\separator.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\separator.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\select.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\select.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\scroll-area.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\scroll-area.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\responsive-image.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\responsive-image.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\resizable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\resizable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\radio-group.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\radio-group.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\progress.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\progress.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\popover.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\popover.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\pagination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\pagination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\navigation-menubar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\navigation-menubar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\menubar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\menubar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\accordion.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\accordion.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\alert-dialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\alert-dialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\alert.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\alert.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\aspect-ratio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\aspect-ratio.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\avatar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\avatar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\badge.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\badge.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\breadcrumb.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\breadcrumb.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\button.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\button.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\calendar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\calendar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\carousel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\carousel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\chart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\chart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\checkbox.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\checkbox.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\collapsible.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\collapsible.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\command.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\command.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\context-menu.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\context-menu.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\dialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\dialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\drawer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\drawer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\dropdown-menu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\dropdown-menu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\form.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\form.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\hover-card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\hover-card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\image-helpers.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\image-helpers.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\image.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\image.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\input-otp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\input-otp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\input.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\input.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\label.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\label.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Projects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Projects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Resume.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Resume.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Courses.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sections\\Courses.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\AnimatedBackground.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AnimatedBackground.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\AuthLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AuthLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\GoogleIcon.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\GoogleIcon.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ProtectedRoute.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProtectedRoute.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ScrollToTop.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ScrollToTop.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\UserNotRegisteredError.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\UserNotRegisteredError.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\UseTyping.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\UseTyping.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\OAuthConsent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\OAuthConsent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\ResetPassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ResetPassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\ForgotPassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ForgotPassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\utils\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\app-params.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\app-params.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\AuthContext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\AuthContext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\authreturnTo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\authreturnTo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\PageNotFound.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\PageNotFound.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\query-client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\query-client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\hooks\\use-size.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\hooks\\use-size.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\hooks\\use-mobile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\hooks\\use-mobile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\api\\Base44Cient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\Base44Cient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\base44\\config.jsonc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base44\\config.jsonc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NLN\\Desktop\\Portfolio\\base44\\entities\\User.jsonc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base44\\entities\\User.jsonc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 896,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-04T21:45:13.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T21:44:58.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "components.json",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\components.json",
+              "RelativeDocumentMoniker": "components.json",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\components.json",
+              "RelativeToolTip": "components.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T21:44:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CLAUDE.md",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\CLAUDE.md",
+              "RelativeDocumentMoniker": "CLAUDE.md",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\CLAUDE.md",
+              "RelativeToolTip": "CLAUDE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-04T21:16:25.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AGENTS.md",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\AGENTS.md",
+              "RelativeDocumentMoniker": "AGENTS.md",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\AGENTS.md",
+              "RelativeToolTip": "AGENTS.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-04T21:15:47.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-04T21:15:23.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jsconfig.json",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\jsconfig.json",
+              "RelativeDocumentMoniker": "jsconfig.json",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\jsconfig.json",
+              "RelativeToolTip": "jsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T21:45:43.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T21:46:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "post.css.config.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\post.css.config.js",
+              "RelativeDocumentMoniker": "post.css.config.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\post.css.config.js",
+              "RelativeToolTip": "post.css.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T21:47:05.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-04T21:47:52.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\tailwind.config.js",
+              "RelativeDocumentMoniker": "tailwind.config.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\tailwind.config.js",
+              "RelativeToolTip": "tailwind.config.js",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T21:48:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T21:48:27.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tabs.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\tabs.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\tabs.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\tabs.jsx",
+              "RelativeToolTip": "src\\components\\ui\\tabs.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:01:03.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "table.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\table.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\table.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\table.jsx",
+              "RelativeToolTip": "src\\components\\ui\\table.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:00:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "switch.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\switch.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\switch.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\switch.jsx",
+              "RelativeToolTip": "src\\components\\ui\\switch.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:00:36.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sonner.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sonner.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\sonner.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sonner.jsx",
+              "RelativeToolTip": "src\\components\\ui\\sonner.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:00:01.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "slider.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\slider.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\slider.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\slider.jsx",
+              "RelativeToolTip": "src\\components\\ui\\slider.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:59:47.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "skeleton.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\skeleton.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\skeleton.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\skeleton.jsx",
+              "RelativeToolTip": "src\\components\\ui\\skeleton.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:53:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sidebar.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sidebar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\sidebar.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sidebar.jsx",
+              "RelativeToolTip": "src\\components\\ui\\sidebar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:53:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "textarea.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\textarea.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\textarea.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\textarea.jsx",
+              "RelativeToolTip": "src\\components\\ui\\textarea.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:01:18.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "toast.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toast.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\toast.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toast.jsx",
+              "RelativeToolTip": "src\\components\\ui\\toast.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:01:33.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "toaster.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toaster.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\toaster.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toaster.jsx",
+              "RelativeToolTip": "src\\components\\ui\\toaster.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:01:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "toggle-group.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toggle-group.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\toggle-group.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toggle-group.jsx",
+              "RelativeToolTip": "src\\components\\ui\\toggle-group.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:02:17.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "toggle.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toggle.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\toggle.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\toggle.jsx",
+              "RelativeToolTip": "src\\components\\ui\\toggle.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:03:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "tooltip.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\tooltip.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\tooltip.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\tooltip.jsx",
+              "RelativeToolTip": "src\\components\\ui\\tooltip.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:04:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "use-responsive.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\use-responsive.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\use-responsive.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\use-responsive.jsx",
+              "RelativeToolTip": "src\\components\\ui\\use-responsive.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:05:01.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "use-toast.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\use-toast.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\use-toast.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\use-toast.jsx",
+              "RelativeToolTip": "src\\components\\ui\\use-toast.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T21:05:15.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "sheet.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sheet.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\sheet.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\sheet.jsx",
+              "RelativeToolTip": "src\\components\\ui\\sheet.jsx",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:53:13.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "separator.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\separator.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\separator.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\separator.jsx",
+              "RelativeToolTip": "src\\components\\ui\\separator.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:52:48.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "select.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\select.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\select.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\select.jsx",
+              "RelativeToolTip": "src\\components\\ui\\select.jsx",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:52:33.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "scroll-area.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\scroll-area.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\scroll-area.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\scroll-area.jsx",
+              "RelativeToolTip": "src\\components\\ui\\scroll-area.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:52:16.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "responsive-image.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\responsive-image.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\responsive-image.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\responsive-image.jsx",
+              "RelativeToolTip": "src\\components\\ui\\responsive-image.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:51:33.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "resizable.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\resizable.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\resizable.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\resizable.jsx",
+              "RelativeToolTip": "src\\components\\ui\\resizable.jsx",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:51:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "radio-group.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\radio-group.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\radio-group.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\radio-group.jsx",
+              "RelativeToolTip": "src\\components\\ui\\radio-group.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:50:43.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "progress.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\progress.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\progress.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\progress.jsx",
+              "RelativeToolTip": "src\\components\\ui\\progress.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:50:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "popover.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\popover.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\popover.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\popover.jsx",
+              "RelativeToolTip": "src\\components\\ui\\popover.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:49:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "pagination.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\pagination.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\pagination.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\pagination.jsx",
+              "RelativeToolTip": "src\\components\\ui\\pagination.jsx",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:49:34.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "navigation-menubar.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\navigation-menubar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\navigation-menubar.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\navigation-menubar.jsx",
+              "RelativeToolTip": "src\\components\\ui\\navigation-menubar.jsx",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:49:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "menubar.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\menubar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\menubar.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\menubar.jsx",
+              "RelativeToolTip": "src\\components\\ui\\menubar.jsx",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:48:44.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "badge.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\badge.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\badge.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\badge.jsx",
+              "RelativeToolTip": "src\\components\\ui\\badge.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:19:58.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "avatar.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\avatar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\avatar.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\avatar.jsx",
+              "RelativeToolTip": "src\\components\\ui\\avatar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:19:36.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "aspect-ratio.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\aspect-ratio.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\aspect-ratio.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\aspect-ratio.jsx",
+              "RelativeToolTip": "src\\components\\ui\\aspect-ratio.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:19:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "alert.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\alert.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\alert.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\alert.jsx",
+              "RelativeToolTip": "src\\components\\ui\\alert.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:18:55.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "alert-dialog.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\alert-dialog.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\alert-dialog.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\alert-dialog.jsx",
+              "RelativeToolTip": "src\\components\\ui\\alert-dialog.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:18:38.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "accordion.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\accordion.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\accordion.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\accordion.jsx",
+              "RelativeToolTip": "src\\components\\ui\\accordion.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:18:05.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "breadcrumb.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\breadcrumb.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\breadcrumb.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\breadcrumb.jsx",
+              "RelativeToolTip": "src\\components\\ui\\breadcrumb.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:20:20.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "button.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\button.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\button.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\button.jsx",
+              "RelativeToolTip": "src\\components\\ui\\button.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:20:34.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "calendar.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\calendar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\calendar.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\calendar.jsx",
+              "RelativeToolTip": "src\\components\\ui\\calendar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:21:00.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "card.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\card.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\card.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\card.jsx",
+              "RelativeToolTip": "src\\components\\ui\\card.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:21:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "carousel.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\carousel.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\carousel.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\carousel.jsx",
+              "RelativeToolTip": "src\\components\\ui\\carousel.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:21:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "chart.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\chart.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\chart.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\chart.jsx",
+              "RelativeToolTip": "src\\components\\ui\\chart.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:21:48.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "checkbox.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\checkbox.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\checkbox.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\checkbox.jsx",
+              "RelativeToolTip": "src\\components\\ui\\checkbox.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:32:15.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "collapsible.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\collapsible.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\collapsible.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\collapsible.jsx",
+              "RelativeToolTip": "src\\components\\ui\\collapsible.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:32:35.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "command.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\command.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\command.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\command.jsx",
+              "RelativeToolTip": "src\\components\\ui\\command.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:32:47.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "context-menu.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\context-menu.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\context-menu.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\context-menu.jsx",
+              "RelativeToolTip": "src\\components\\ui\\context-menu.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:33:08.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "dialog.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\dialog.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\dialog.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\dialog.jsx",
+              "RelativeToolTip": "src\\components\\ui\\dialog.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:33:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "drawer.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\drawer.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\drawer.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\drawer.jsx",
+              "RelativeToolTip": "src\\components\\ui\\drawer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:34:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "dropdown-menu.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\dropdown-menu.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\dropdown-menu.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\dropdown-menu.jsx",
+              "RelativeToolTip": "src\\components\\ui\\dropdown-menu.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:34:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "form.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\form.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\form.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\form.jsx",
+              "RelativeToolTip": "src\\components\\ui\\form.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:34:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "hover-card.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\hover-card.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\hover-card.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\hover-card.jsx",
+              "RelativeToolTip": "src\\components\\ui\\hover-card.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:35:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "image-helpers.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\image-helpers.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\image-helpers.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\image-helpers.jsx",
+              "RelativeToolTip": "src\\components\\ui\\image-helpers.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:36:01.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "image.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\image.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\image.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\image.jsx",
+              "RelativeToolTip": "src\\components\\ui\\image.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:36:47.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "input-otp.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\input-otp.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\input-otp.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\input-otp.jsx",
+              "RelativeToolTip": "src\\components\\ui\\input-otp.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:37:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "input.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\input.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\input.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\input.jsx",
+              "RelativeToolTip": "src\\components\\ui\\input.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:37:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "label.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\label.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ui\\label.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ui\\label.jsx",
+              "RelativeToolTip": "src\\components\\ui\\label.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:38:06.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Skills.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Skills.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Skills.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Skills.jsx",
+              "RelativeToolTip": "src\\components\\sections\\Skills.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:10:57.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Resume.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Resume.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Resume.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Resume.jsx",
+              "RelativeToolTip": "src\\components\\sections\\Resume.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:10:34.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Projects.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Projects.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Projects.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Projects.jsx",
+              "RelativeToolTip": "src\\components\\sections\\Projects.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:10:13.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Hero.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Hero.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Hero.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Hero.jsx",
+              "RelativeToolTip": "src\\components\\sections\\Hero.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:09:51.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Experience.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Experience.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Experience.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Experience.jsx",
+              "RelativeToolTip": "src\\components\\sections\\Experience.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:09:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Courses.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Courses.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Courses.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Courses.jsx",
+              "RelativeToolTip": "src\\components\\sections\\Courses.jsx",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:09:10.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Contact.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sections\\Contact.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\sections\\Contact.jsx",
+              "RelativeToolTip": "src\\components\\sections\\Contact.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:08:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\Navbar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\Navbar.jsx",
+              "RelativeToolTip": "src\\components\\Navbar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:59:13.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ProtectedRoute.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ProtectedRoute.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ProtectedRoute.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ProtectedRoute.jsx",
+              "RelativeToolTip": "src\\components\\ProtectedRoute.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:59:36.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "GoogleIcon.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\GoogleIcon.jsx",
+              "RelativeDocumentMoniker": "src\\components\\GoogleIcon.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\GoogleIcon.jsx",
+              "RelativeToolTip": "src\\components\\GoogleIcon.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:58:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AuthLayout.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\AuthLayout.jsx",
+              "RelativeDocumentMoniker": "src\\components\\AuthLayout.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\AuthLayout.jsx",
+              "RelativeToolTip": "src\\components\\AuthLayout.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:58:38.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AnimatedBackground.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\AnimatedBackground.jsx",
+              "RelativeDocumentMoniker": "src\\components\\AnimatedBackground.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\AnimatedBackground.jsx",
+              "RelativeToolTip": "src\\components\\AnimatedBackground.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:58:10.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ScrollToTop.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ScrollToTop.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ScrollToTop.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\ScrollToTop.jsx",
+              "RelativeToolTip": "src\\components\\ScrollToTop.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:00:07.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UserNotRegisteredError.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\UserNotRegisteredError.jsx",
+              "RelativeDocumentMoniker": "src\\components\\UserNotRegisteredError.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\UserNotRegisteredError.jsx",
+              "RelativeToolTip": "src\\components\\UserNotRegisteredError.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T20:00:30.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UseTyping.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\UseTyping.js",
+              "RelativeDocumentMoniker": "src\\components\\UseTyping.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\components\\UseTyping.js",
+              "RelativeToolTip": "src\\components\\UseTyping.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T20:01:19.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ResetPassword.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\ResetPassword.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\ResetPassword.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\ResetPassword.jsx",
+              "RelativeToolTip": "src\\pages\\ResetPassword.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:48:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Register.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Register.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Register.jsx",
+              "RelativeToolTip": "src\\pages\\Register.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:47:48.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "OAuthConsent.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\OAuthConsent.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\OAuthConsent.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\OAuthConsent.jsx",
+              "RelativeToolTip": "src\\pages\\OAuthConsent.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:47:27.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Login.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Login.jsx",
+              "RelativeToolTip": "src\\pages\\Login.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:47:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Home.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\Home.jsx",
+              "RelativeToolTip": "src\\pages\\Home.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:46:44.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ForgotPassword.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\ForgotPassword.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\ForgotPassword.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\pages\\ForgotPassword.jsx",
+              "RelativeToolTip": "src\\pages\\ForgotPassword.jsx",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:46:31.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\utils\\index.ts",
+              "RelativeDocumentMoniker": "src\\utils\\index.ts",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\utils\\index.ts",
+              "RelativeToolTip": "src\\utils\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-04T19:41:05.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "utils.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\utils.js",
+              "RelativeDocumentMoniker": "src\\lib\\utils.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\utils.js",
+              "RelativeToolTip": "src\\lib\\utils.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T19:33:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "query-client.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\query-client.js",
+              "RelativeDocumentMoniker": "src\\lib\\query-client.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\query-client.js",
+              "RelativeToolTip": "src\\lib\\query-client.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T19:32:48.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "PageNotFound.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\PageNotFound.jsx",
+              "RelativeDocumentMoniker": "src\\lib\\PageNotFound.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\PageNotFound.jsx",
+              "RelativeToolTip": "src\\lib\\PageNotFound.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:32:30.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "authReturnTo.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\authReturnTo.js",
+              "RelativeDocumentMoniker": "src\\lib\\authReturnTo.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\authReturnTo.js",
+              "RelativeToolTip": "src\\lib\\authReturnTo.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T19:32:09.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "AuthContext.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\AuthContext.jsx",
+              "RelativeDocumentMoniker": "src\\lib\\AuthContext.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\AuthContext.jsx",
+              "RelativeToolTip": "src\\lib\\AuthContext.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:31:28.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "app-params.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\app-params.js",
+              "RelativeDocumentMoniker": "src\\lib\\app-params.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\lib\\app-params.js",
+              "RelativeToolTip": "src\\lib\\app-params.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T19:30:58.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "use-size.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\hooks\\use-size.jsx",
+              "RelativeDocumentMoniker": "src\\hooks\\use-size.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\hooks\\use-size.jsx",
+              "RelativeToolTip": "src\\hooks\\use-size.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:28:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "use-mobile.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\hooks\\use-mobile.jsx",
+              "RelativeDocumentMoniker": "src\\hooks\\use-mobile.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\hooks\\use-mobile.jsx",
+              "RelativeToolTip": "src\\hooks\\use-mobile.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:28:16.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Base44Cient.js",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\api\\Base44Cient.js",
+              "RelativeDocumentMoniker": "src\\api\\Base44Cient.js",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\api\\Base44Cient.js",
+              "RelativeToolTip": "src\\api\\Base44Cient.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-04T19:25:23.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:21:31.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-04T19:21:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-04T19:20:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "config.jsonc",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\base44\\config.jsonc",
+              "RelativeDocumentMoniker": "base44\\config.jsonc",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\base44\\config.jsonc",
+              "RelativeToolTip": "base44\\config.jsonc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-04T19:16:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "User.jsonc",
+              "DocumentMoniker": "C:\\Users\\NLN\\Desktop\\Portfolio\\base44\\entities\\User.jsonc",
+              "RelativeDocumentMoniker": "base44\\entities\\User.jsonc",
+              "ToolTip": "C:\\Users\\NLN\\Desktop\\Portfolio\\base44\\entities\\User.jsonc",
+              "RelativeToolTip": "base44\\entities\\User.jsonc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-04T19:15:35.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
