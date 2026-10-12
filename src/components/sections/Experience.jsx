@@ -3,6 +3,18 @@ import { SectionLabel } from "@/components/sections/Skills";
 
 const EXPERIENCE = [
     {
+        date: "Sep 2026 — Present",
+        role: "QA Intern",
+        company: "Xictek System",
+        location: "Lahore, Pakistan",
+        points: [
+            "Build automated test suites with Playwright for critical user flows and regression testing across Chromium and Firefox.",
+            "Design positive, negative, and boundary test cases to validate application behavior.",
+            "Report and track defects in Jira with clear reproduction steps.",
+            "Collaborate with developers and cross-functional teams in an Agile environment to clarify requirements, validate fixes, and support high-quality releases.",
+        ],
+    },
+    {
         date: "Aug 2026 — Sep 2026",
         role: "AI/ML Intern",
         company: "Xictek Systems — HisabDo (Finance Management App)",
@@ -14,6 +26,17 @@ const EXPERIENCE = [
             "Worked on Generative AI/LLM-powered applications, prompt engineering, AI safety guardrails, and API integration.",
             "Implemented AI safety validation for emergency detection, diagnosis and prescription restrictions, prompt injection, and unsafe AI outputs.",
             "Used Jira for task and bug tracking and Git/GitHub for development workflows.",
+        ],
+    },
+    {
+        date: "Oct 2025 — Dec 2025",
+        role: "Project Management Intern",
+        company: "Cubix",
+        location: "Karachi, Pakistan",
+        points: [
+            "Supported IT project coordination from initiation through closeout, including scope, objectives, deliverables, requirements, assumptions, and dependencies.",
+            "Maintained project plans, task trackers, and boards in ClickUp and Jira, tracking owners, priorities, statuses, deadlines, milestones, and dependencies.",
+            "Coordinated project and sprint meetings, documented decisions and action items, and followed up with team members on deadlines.",
         ],
     },
     {
@@ -38,7 +61,7 @@ export default function Experience() {
                     <span className="text-gradient">Experience</span>
                 </h2>
                 <p className="text-muted-foreground max-w-2xl mb-12">
-                    Hands-on roles applying AI and machine learning to real-world software systems.
+                    Experience across software quality assurance, project coordination, and AI and machine learning.
                 </p>
 
                 <div className="relative pl-8">
@@ -70,3 +93,4 @@ export default function Experience() {
         </section>
     );
 }
+
