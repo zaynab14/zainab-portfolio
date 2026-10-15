@@ -5,10 +5,12 @@ const EXPERIENCE = [
     {
         date: "Sep 2026 — Present",
         role: "QA Intern",
-        company: "Xictek System",
+        company: "Bitrupt",
         location: "Lahore, Pakistan",
         points: [
             "Build automated test suites with Playwright for critical user flows and regression testing across Chromium and Firefox.",
+            "Test an Android app on a physical device using Appium with the UiAutomator2 driver, including device and app capability configuration.",
+            "Inspect Android UI hierarchies and accessibility labels with Appium Inspector, and build and run a dashboard smoke test with WebdriverIO and JavaScript.",
             "Design positive, negative, and boundary test cases to validate application behavior.",
             "Report and track defects in Jira with clear reproduction steps.",
             "Collaborate with developers and cross-functional teams in an Agile environment to clarify requirements, validate fixes, and support high-quality releases.",
@@ -17,7 +19,7 @@ const EXPERIENCE = [
     {
         date: "Aug 2026 — Sep 2026",
         role: "AI/ML Intern",
-        company: "Xictek Systems — HisabDo (Finance Management App)",
+        company: "Xictek Systems",
         location: "Lahore, Pakistan",
         points: [
             "Contributed to AI solutions for software business applications.",
