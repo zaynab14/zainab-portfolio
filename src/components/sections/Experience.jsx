@@ -6,7 +6,7 @@ const EXPERIENCE = [
         date: "Sep 2026 — Present",
         role: "QA Intern",
         company: "Bitrupt",
-        location: "Lahore, Pakistan",
+        location: "Karachi, Pakistan",
         points: [
             "Build automated test suites with Playwright for critical user flows and regression testing across Chromium and Firefox.",
             "Test an Android app on a physical device using Appium with the UiAutomator2 driver, including device and app capability configuration.",
@@ -95,4 +95,5 @@ export default function Experience() {
         </section>
     );
 }
+
 
